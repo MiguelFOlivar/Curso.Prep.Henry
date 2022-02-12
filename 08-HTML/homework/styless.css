@@ -1,0 +1,42 @@
+
+        h1{
+            color: blue;
+            text-align: center;
+        }
+        img{
+            
+            width: 400px;
+            display: block;
+        }
+        #thirdDiv{
+            margin: auto;
+            width: 500px;
+            height: 600px;
+            padding: 50px;
+            background-color: #90E0EF;
+            border: 2px solid black;
+            
+        }
+        #spanId{
+            font-size: 18px;
+            margin: 50px;
+        }
+        .divClass{
+            text-align: center;
+        }
+        p{
+            color: #03045e;
+        }
+        #cv{
+                margin: auto;
+                width: 500px;
+                height: auto;
+                padding: 50px;
+                background-color: #90E0EF;
+                border: 2px solid #023E8A;
+        }
+        #img1{
+            
+            width: 150px;
+            display: block;
+        }
